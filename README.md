@@ -34,7 +34,7 @@ For convenience I have a custom built postbox with plexi doors, so you do not ha
 3. BWC.py - Main script. 
 4. BWC_log.txt - a logfile for  application start timestamps
 5. config.ini - file to change script behavior, like ROI pixel coordinates, detection variance limit, check frequency in seconds. 
-6. credentials.yml - confog file for mail sending setup
+6. credentials.yml - config file for mail sending setup
 7. sendagmail.py - gmail sending handler
 
 ## 4 Images of the setup
