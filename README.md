@@ -48,7 +48,7 @@ For convenience I have a custom built bostbox with plexi doors, so you do not ha
 
 ## 5 Further use: Security cam
 
-This project was based on BWC, which was a webserver with periodically updating image. Fosta was built on top of this. Practically, a webserver is set up and the displayed HTML is edited upon each iteration.
+This project was based on [BWC](https://github.com/gitusercz/BWC), which was a webserver with periodically updating image. Fosta was built on top of this. Practically, a webserver is set up and the displayed HTML is edited upon each iteration.
 
 ## 6. Notes
 
