@@ -39,10 +39,12 @@ For convenience I have a custom built bostbox with plexi doors, so you do not ha
 ## 4 Images of the setup
 
 ### 4.1 What the camera sees when postbox is empty
+![Empty postbox](/resources/01_empty.jpg)
 
 ### 4.2 What the camera sees when mail arrived
-
+![Mail arrived](/resources/02_full.jpg)
 ### 4.3 Mail notification
+![Notification e-mail](/resources/03_mail.png)
 
 ## 5 Furter use: Security cam
 
