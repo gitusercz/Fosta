@@ -1,6 +1,6 @@
 # Fosta
 
-A RaspberryPi alarms if post arrives
+A raspbery pi based security cam, that alarms, when post arrives. 
 
 ## 1 Plot
 
@@ -46,7 +46,7 @@ For convenience I have a custom built bostbox with plexi doors, so you do not ha
 ### 4.3 Mail notification
 ![Notification e-mail](/resources/03_mail.png)
 
-## 5 Furter use: Security cam
+## 5 Further use: Security cam
 
 This project was based on BWC, which was a webserver with periodically updating image. Fosta was built on top of this. Practically, a webserver is set up and the displayed HTML is edited upon each iteration.
 
