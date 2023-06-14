@@ -45,7 +45,7 @@ For convenience I have a custom built postbox with plexi doors, so you do not ha
 ### 4.2 What the camera sees when mail arrived
 ![Mail arrived](/resources/02_full.jpg)
 ### 4.3 Mail notification
-![Notification e-mail](/resources/03_mail.png)
+![Notification e-mail](/resources/03_e-mail.png)
 
 ## 5 Further use: Security cam
 
