@@ -4,13 +4,13 @@ A raspbery pi based security cam, that alarms, when post arrives.
 
 ## 1 Plot
 
-There is a hungarian post type, that is "in hand" (ajánlott). Those cannot land into the postbox, but into the recipient's hands only. Postmen not necessarily try to use doorbell and wait for you. They have a built in doorbell: car horn. So they show up, use the horn, and if you hsppen to show up immediately you might get your letter.
+There is a hungarian post type, that is "in hand" (ajánlott). Those cannot land into the postbox, but into the recipient's hands only. Postmen do not necessarily use the doorbell and wait for you. They have a built in doorbell: car horn. So they show up, horn, and if you happen to show up immediately you might get your letter.
 
 If not, the postman writes a notification that letter could not be delivered, therefore you are welcome in the following two weeks at the post office on the other half of the city in worktime.
 
 ## 2 Setup
 
-For convenience I have a custom built bostbox with plexi doors, so you do not have to open it, to see if you have mail. I have installed a Raspberry Pi with camera to watch it.
+For convenience I have a custom built postbox with plexi doors, so you do not have to open it, to see if you have mail. I have installed a Raspberry Pi with camera to watch it.
 
 ## 3 How it works
 
@@ -24,9 +24,10 @@ For convenience I have a custom built bostbox with plexi doors, so you do not ha
 
 5.  Variance is calculated on the pixel values
 
-6.  If variance value is above a limit, it sends an email
+6.  If variance value is above limit, it sends an email
 
 7.  Jump to step 1
+
 ### 3.1 Support files
 1. Folder: IMG - saved images are stored here.
 2. Folder: resources - Git support files are here (images for demonstration, not used by the script)
