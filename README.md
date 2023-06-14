@@ -59,5 +59,5 @@ When I was looking for a statistical value that represents that "there is someth
 
 ### 6.2 On "Fosta"
 This is a name coined by a frustrated SW developer earlier. He created a website to log end user complaints for the faulty work of the Hungarian Post. [The webpage is down.]([https://444.hu/2019/12/03/egy-kiborult-programozo-ugy-dontott-felveszi-a-harcot-a-magyar-postaval-ebbol-lett-a-fosta](https://444.hu/2019/12/03/egy-kiborult-programozo-ugy-dontott-felveszi-a-harcot-a-magyar-postaval-ebbol-lett-a-fosta))
-![image](https://github.com/gitusercz/Fosta/assets/32957697/0eee2012-cd7e-4d1b-9335-55143273b414)
+
  
