@@ -59,6 +59,12 @@ When I was looking for a statistical value that represents that "there is someth
 [Variance](https://en.wikipedia.org/wiki/Variance)  is a measure of [dispersion](https://en.wikipedia.org/wiki/Statistical_dispersion "Statistical dispersion"), meaning it is a measure of how far a set of numbers is spread out from their average value.
 
 ### 6.2 On "Fosta"
-This is a name coined by a frustrated SW developer earlier. He created a website to log end user complaints for the faulty work of the Hungarian Post. [The webpage is down.]([https://444.hu/2019/12/03/egy-kiborult-programozo-ugy-dontott-felveszi-a-harcot-a-magyar-postaval-ebbol-lett-a-fosta](https://444.hu/2019/12/03/egy-kiborult-programozo-ugy-dontott-felveszi-a-harcot-a-magyar-postaval-ebbol-lett-a-fosta))
+This is a name coined by a frustrated SW developer earlier. He created a website to log end user complaints for the faulty work of the Hungarian Post. [The webpage is down.](https://444.hu/2019/12/03/egy-kiborult-programozo-ugy-dontott-felveszi-a-harcot-a-magyar-postaval-ebbol-lett-a-fosta)
 
+Use this SW with caution and as you wish. 
+
+Best regards, 
+Attila Czibere
+
+2023-06
  
